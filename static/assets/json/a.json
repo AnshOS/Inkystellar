@@ -44,8 +44,8 @@
     "categories": ["all", "social"]
   },
   {
-    "name": "Android",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.uncube.launcher3&partner=interstellar",
+    "name": "Android/iOS Emulator",
+    "link": "appetize.com/demo",
     "image": "/assets/media/icons/android.webp",
     "categories": ["all", "emu", "android"]
   },
