@@ -1560,7 +1560,7 @@
     "categories": ["all", "emu", "android"]
   },
   {
-    "name": "Android",
+    "name": "Android/iOS Emulator",
     "link": "https://appetize.io/demo",
     "image": "/assets/media/icons/android.webp",
     "categories": ["all", "emu", "android"]
